@@ -1,0 +1,36 @@
+================================================================================
+FINANCE BUSINESS PARTNER EXECUTIVE BRIEFING | ANNUAL PORTFOLIO REVIEW
+Report Date: 15 August 2026 | Currency: NZD ($)
+================================================================================
+
+1. PORTFOLIO FINANCIAL TRAJECTORY
+• Total Research Revenue: $22.10M vs Budget $22.55M (behind target by $457.6k or -2.0%).
+• Net Margin Delivered: $773.2k vs Planned $1276.5k.
+
+2. DIVISIONAL PERFORMANCE & OPERATIONAL CAPACITY
+[ON TRACK] - Applied Agricultural Science:
+  - Revenue Realization: 97.9% | Net Margin: 9.3%
+  - FTE Labor Utilization: 95.7% of planned billable capacity.
+  * ADVISORY ACTION: High operational absorption maintained. Monitor project milestones to avoid delivery bottlenecks.
+
+[ON TRACK] - Biotechnology & Health Solutions:
+  - Revenue Realization: 96.5% | Net Margin: 6.9%
+  - FTE Labor Utilization: 94.9% of planned billable capacity.
+  * ADVISORY ACTION: Capacity slippage detected. Estimated $303.0k in unrecovered labor.
+    Action: Work with Programme Leads to reassign scientific FTEs to contestable grant deliverables.
+
+[ON TRACK] - Ecosystem & Environmental Risk:
+  - Revenue Realization: 98.9% | Net Margin: 0.2%
+  - FTE Labor Utilization: 96.7% of planned billable capacity.
+  * ADVISORY ACTION: High operational absorption maintained. Monitor project milestones to avoid delivery bottlenecks.
+
+[ON TRACK] - Sustainable Materials & Forestry:
+  - Revenue Realization: 98.7% | Net Margin: -3.9%
+  - FTE Labor Utilization: 96.4% of planned billable capacity.
+  * ADVISORY ACTION: High operational absorption maintained. Monitor project milestones to avoid delivery bottlenecks.
+
+3. STRATEGIC RECOMMENDATIONS FOR OPERATIONAL DIRECTORS
+• Milestone Review: Synchronize quarterly scientific milestones with invoicing schedules to reduce revenue lag.
+• OpEx Procurement: Standardize laboratory consumable vendor agreements to capture volume discount synergies.
+• Chargeout Harmonization: Re-benchmark FTE recovery rates against current wage inflation to prevent margin dilution.
+================================================================================

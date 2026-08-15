@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vCykAwVesWaNEr9xTiPJgeea8KfqkLbu?usp=sharing)
 # Research Portfolio FP&A & Grant Performance Engine
 ### Multi-Year Grant Tracking, FTE Labor Recovery & Automated Executive Variance Analysis
 

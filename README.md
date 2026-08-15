@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://research-fpa-grant-engine-9y2kvjmjiwmjxtkyrzzke5.streamlit.app/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vCykAwVesWaNEr9xTiPJgeea8KfqkLbu?usp=sharing)
 # Research Portfolio FP&A & Grant Performance Engine
 ### Multi-Year Grant Tracking, FTE Labor Recovery & Automated Executive Variance Analysis
